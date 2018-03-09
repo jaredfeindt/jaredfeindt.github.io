@@ -45,3 +45,13 @@ Excellent for 3-5: Agricola, Mysterium, Splendor, Ascension
 Investing
 
 In an ideal world, I would have plenty of time to make investing decisions based on hours of resarch learning about every security I purchase. Since I do not have the time, my investing strategy needs to be fairly automated. My current investing strategy generally revolves around putting money in several low risk, under-valued companies based on Benjamin Graham's value investing philosophy, with some additional capital reserved for dividend yielding stocks and a small amount reserved for short-term risky trades. I started investing in 2014 with mixed success, but I have beaten the market's return of 20% in the past 9 months using this new strategy.
+
+I also strongly advise against using certain investing services. If you are being charged over 1% of the value of your portfolio per year, they had better be pulling in ridiculous returns. Services like this can wind up costing you 50% of your gains over the course of a 40-year career.
+
+Instead, put your money into Mutual Funds and Exchange Trading Funds (ETFs) that track the market with low fees, generally below 0.5%
+
+And for anyone who's scared of investing, if you invested a sum of money at any point in time in the past 100 years, you would generally wind up with a 6-7% annual gain as of 30 years later. You should invest. Even if you're risk averse, invest some of it with your money. Your money magically becomes worth less due to inflation each year.
+
+Real Estate
+
+In 2016, I started a property development company in Philadelphia with 3 of my friends. I think property is an excellent way to both make and lose money, just like investing. You've gotta be careful with your opportunities and the people you choose to work with. Hopefully this company is able to grow enough that I can post a link to it on this site.
